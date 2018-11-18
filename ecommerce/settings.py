@@ -86,7 +86,7 @@ WSGI_APPLICATION = 'ecommerce.wsgi.application'
 
 
 # Production
-if "DATABASE_URL" is os.environ:
+if "DATABASE_URL" in os.environ:
     
     DATABASES = {
         'default': dj_database_url.parse(os.environ.get('DATABASE_URL'))
