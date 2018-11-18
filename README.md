@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/S-Downes/E-Commerce.svg?branch=master)](https://travis-ci.org/S-Downes/E-Commerce)
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
