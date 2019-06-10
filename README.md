@@ -1,18 +1,15 @@
-[![Build Status](https://travis-ci.org/S-Downes/E-Commerce.svg?branch=master)](https://travis-ci.org/S-Downes/E-Commerce)
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# Description
+# **Archived**
+    This project has been archived and is not currently been maintained. The description and deployment sections are here for reference only.
 
+These files are part of a django ecommerce app and provide a template for enabling users to;
+  - Add items to a basket
+  - Register / login and complete transactions
+  - View basket and checkout
+  - Add / remove items
 
-Hi there! Welcome to Cloud9 IDE!
+## Deployment
+The app is hosted on the Heroku platform and can be found by following the link below.
 
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
+    https://ecommerce-lite.herokuapp.com/
 
-Happy coding!
-The Cloud9 IDE team
